@@ -1,1 +1,1 @@
-# customer-churn-prediction-dashboard
+![Churn Dashboard Report](Churn Dashboard Report.png)
