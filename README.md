@@ -1,1 +1,1 @@
-![Churn Dashboard Report](Churn Dashboard Report.png)
+![Churn Dashboard Report](churn_dashboard_report.png)
